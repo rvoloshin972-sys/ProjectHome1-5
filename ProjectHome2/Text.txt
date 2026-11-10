@@ -1,0 +1,4 @@
+C# is a programming language.
+C# is used for application development.
+I study C# and want to learn C# programming.
+C# is interesting.
